@@ -1,6 +1,6 @@
 header {
-    background-color: #0ea9cf;
-    color: white;
+    background-color: #0e82cf;
+    color: rgb(35, 99, 184);
 }
 
 .cabecalho-imagem{
@@ -8,7 +8,7 @@ header {
 }
 
 .cabecalho {
-    background-color: #11c1e0;
+    background-color: #11c8e0;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -36,10 +36,45 @@ header {
     padding: 0;
 }
 
+.escola-imagem{
+    width: 25%;
+}
 
+.escola{
+    background-image: linear-gradient(#15ebe0, #30a0c9);
+}
 
+.escola{
+    background-image: linear-gradient(#424E61, #4EBFE9);
+    color: rgb(252, 252, 252);
+}
 
+.escola{
+    background-image: linear-gradient(#424E61, #4EBFE9);
+    color: white;
+    display: flex;
+}
 
+.escola-div-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
+}
+
+.escola{
+    background-image: linear-gradient(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
 
 
 
